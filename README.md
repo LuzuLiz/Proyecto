@@ -1,4 +1,4 @@
-# Preguntas del Proyecto
+# PROYECTO TOXOPLASMA 
 
 ## Q1. ¿En qué organismo o grupo de organismos vas a trabajar?
 
@@ -14,6 +14,7 @@
 * Curl: para descargar secuencias desde bases de datos publicas
 * Grep: para procesar archivos fasta y extraer informacion
 
-Q4. Sube una foto que represente tu organismo o grupo de organismo
+## Q4. Sube una foto que represente tu organismo o grupo de organismo
 
-! { }(https://d3bzsop0qm92m2.cloudfront.net/guideliens/800x600_Toxoplasma-gondii-bradyzoite-brain-1000x.jpg)
+![Texto alternativo](https://d3bzsop0qm92m2.cloudfront.net/guideliens/800x600_Toxoplasma-gondii-bradyzoite-brain-1000x.jpg)
+
