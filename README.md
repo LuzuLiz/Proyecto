@@ -3,12 +3,12 @@
 ## Q1. ¿En qué organismo o grupo de organismos vas a trabajar?
 
 * Nombre: Toxoplasma gondii
-* Grupo: Protzoo intracelular del filo Apicomplexa
+* Grupo: Protozoo intracelular del filo Apicomplexa
  
 ## Q2. Brevemente describe que piensas hacer en tu proyecto
 
 * El objetivo del proyecto es buscar y procesar secuencias geneticas de T. gondii reportadas en Ecuador, para:
-- Identificat genes relacionados con virulencia
+- Identificar genes relacionados con virulencia
 - Evaluar diversidad genetica regional
 
 ## Q3. ¿Qué programas voy a usar en mi proyecto?
