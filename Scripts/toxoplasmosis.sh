@@ -22,9 +22,9 @@
 
 grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
 
-#Paso 6: Ubicar el gen SAG3 identificado en secuencias ecuatorianas de la cepa ME49
+#Paso 6: Ubicar el gen marcador SAG3 en el ensamblaje identificado
 
-grep -i "SGA3" *.gbff   #Si no funciona se usa alias identificado (SRS57)
+grep -i "SGA3" *.gbff   #Si no funciona se usa alias (SRS57)
 
 -----------
 #Proximos pasos:
