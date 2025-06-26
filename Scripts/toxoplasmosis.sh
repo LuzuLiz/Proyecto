@@ -26,7 +26,7 @@ grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
 
 grep -i "SRS57" *.gbff  #Se usa alias (SRS57)
 
-#Paso 6: Buscar cordenadas de SRS57
+#Paso 6: Buscar coordenadas de SRS57
 
 grep -A 30 -i "SRS57" *.gbff > sga3.txt 
 -----------
