@@ -26,8 +26,9 @@ grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
 
 grep -i "SGA3" *.gbff   #Si no funciona se usa alias (SRS57)
 
+#Paso 6: Extraer la secuencia del gen marcador SGA3
+
 -----------
 #Proximos pasos:
--Extraer la secuencia del gen SAG3
--Buscar otras secuencias SAG3 en NCBI reportadas en Ecuador
+-Buscar otras secuencias del gen SAG3 reportadas en Ecuadir
 -Alinearlas las secuencias para evaluar diversidad genetica
