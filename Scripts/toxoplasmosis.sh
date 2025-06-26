@@ -20,7 +20,7 @@
 
 #Paso 5: Buscar genes de virulencia en .gbff
 
-grep -iE 'ROP|GRA|MIC|SAG' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
+grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
 
 #Paso 6: Ubicar el gen SAG3 identificado en secuencias ecuatorianas de la cepa ME49
 
