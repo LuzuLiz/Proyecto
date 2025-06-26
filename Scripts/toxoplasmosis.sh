@@ -24,11 +24,13 @@ grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
 
 #Paso 6: Ubicar el gen marcador SAG3 en el ensamblaje identificado
 
-grep -i "SGA3" *.gbff   #Si no funciona se usa alias (SRS57)
+grep -i "SRS57" *.gbff  #Se usa alias (SRS57)
 
-#Paso 6: Extraer la secuencia del gen marcador SGA3
+#Paso 6: Buscar cordenadas de SRS57
 
+grep -A 30 -i "SRS57" *.gbff > sga3.txt 
 -----------
 #Proximos pasos:
+-Descargar la secuencia del marcador SRS57
 -Buscar otras secuencias del gen SAG3 reportadas en Ecuadir
 -Alinearlas las secuencias para evaluar diversidad genetica
