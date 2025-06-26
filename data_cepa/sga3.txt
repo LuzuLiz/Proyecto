@@ -1,0 +1,55 @@
+                     /gene="SRS57"
+                     /locus_tag="TGME49_308020"
+                     /old_locus_tag="TGME49_108020"
+                     /db_xref="GeneID:7893885"
+     mRNA            complement(508546..512330)
+                     /gene="SRS57"
+                     /locus_tag="TGME49_308020"
+                     /old_locus_tag="TGME49_108020"
+                     /product="SAG-related sequence SRS57"
+                     /note="transcript TGME49_308020"
+                     /transcript_id="XM_002371878.2"
+                     /db_xref="GeneID:7893885"
+     CDS             complement(510586..511743)
+                     /gene="SRS57"
+                     /locus_tag="TGME49_308020"
+                     /old_locus_tag="TGME49_108020"
+                     /inference="protein motif:PFAM:PF04092"
+                     /note="encoded by transcript TGME49_308020;
+                     Gene product name based on ToxoDB Community Expert
+                     Annotation.;
+                     Signal peptide predicted by SignalP 2.0 HMM (probability
+                     0.976) with cleavage site probability 0.437 at residue 38;
+                     Predicted trans-membrane domain (TMHMM2.0):20-40"
+                     /codon_start=1
+                     /product="SAG-related sequence SRS57"
+                     /protein_id="XP_002371919.1"
+                     /db_xref="GeneID:7893885"
+                     /translation="MQLWRRRAAGPASLGRQSLPLGCFFAAFGLCVLSAILGTGERGL
+                     FVAAGNSRRKITYFGTLTQKAPNWYRCSSTRAKEEVVGHVTLNKEHPDMTIECVDDGL
+                     GGEFLPLEGARSSYPRVCHIDAKDQDDCERNRGFLTDYIPGAKQYWYKIEKVEQNGEQ
+                     SVLYKFTVPWILLPPAKQRYKVGCRYPNHEYCFVEVTVEPTPPMVEGKRVTCGYSESG
+                     PVNLEVDLSKNANFIEIRCGEQHHPQPSTYTLQYCSGDSVDPQKCSPQSLTNIFYDYS
+                     SSWWKGKLNGPDGATLTIPPGGFPEEDKSFLVGCSLTVDGPPFCNVKVRVAGNPRKWE
+                     RGGGGHPGSGGLQPGTDGETQAGTGSSAGASSRMASVALAFLLGLLVHVAA"
+     gene            511686..523410
+                     /locus_tag="TGME49_308030"
+                     /old_locus_tag="TGME49_108030"
+                     /db_xref="GeneID:7893886"
+     mRNA            join(511686..515751,516203..516348,517067..517158,
+                     517724..517808,518336..518416,519501..519593,
+                     520639..520704,521325..521531,522274..522392,
+                     522874..523410)
+                     /locus_tag="TGME49_308030"
+                     /old_locus_tag="TGME49_108030"
+                     /product="hypothetical protein"
+                     /note="transcript TGME49_308030"
+                     /transcript_id="XM_018782538.1"
+                     /db_xref="GeneID:7893886"
+     CDS             join(513678..515751,516203..516348,517067..517158,
+                     517724..517808,518336..518416,519501..519593,
+                     520639..520704,521325..521531,522274..522392,
+                     522874..522958)
+                     /locus_tag="TGME49_308030"
+                     /old_locus_tag="TGME49_108030"
+                     /note="encoded by transcript TGME49_308030"
