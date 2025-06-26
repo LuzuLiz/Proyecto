@@ -10,7 +10,6 @@
 
 #Paso 3: Descargar genoma y anotacion del genoma de interes con datasets
 
-./datasets download genome accession GCF_000006565.2 --include seq-report
 ./datasets download genome accession GCF_000006565.2 --include gtt3 --include gbft
 
 #Paso 4: Buscar taxon ID del genoma GCF_000006565.2
