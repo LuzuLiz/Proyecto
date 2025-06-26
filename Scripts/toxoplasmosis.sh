@@ -10,7 +10,7 @@
 
 #Paso 3: Descargar genoma y anotacion del genoma de interes con datasets
 
-./datasets download genome accession GCF_000006565.2 --include gtt3 --include gbft
+./datasets download genome accession GCF_000006565.2 --include gtt3 --include gbff
 
 #Paso 4: Buscar taxon ID del genoma GCF_000006565.2
 
@@ -20,7 +20,7 @@
 
 #Paso 5: Buscar genes de virulencia en .gbff
 
-grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq
+grep -iE 'ROP|GRA|MIC' *.gbff |grep "/gene=" | cut -d "" -f2 | sort | uniq > Genes_virulencia.txt
 
 #Paso 6: Ubicar el gen marcador SAG3 en el ensamblaje identificado
 
@@ -32,5 +32,5 @@ grep -A 30 -i "SRS57" *.gbff > sga3.txt
 -----------
 #Proximos pasos:
 -Descargar la secuencia del marcador SRS57
--Buscar otras secuencias del gen SAG3 reportadas en Ecuadir
+-Buscar otras secuencias del gen SAG3 reportadas en Ecuador
 -Alinearlas las secuencias para evaluar diversidad genetica
