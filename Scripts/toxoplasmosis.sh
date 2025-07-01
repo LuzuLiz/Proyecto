@@ -30,7 +30,4 @@ grep -i "SRS57" *.gbff  #Se usa alias (SRS57)
 
 grep -A 30 -i "SRS57" *.gbff > sga3.txt 
 -----------
-#Proximos pasos:
--Descargar la secuencia del marcador SRS57
--Buscar otras secuencias del gen SAG3 reportadas en Ecuador
--Alinearlas las secuencias para evaluar diversidad genetica
+
