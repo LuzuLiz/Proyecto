@@ -9,3 +9,8 @@ samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:508546-512330 > SRS5
 
 4. Extraer CDS (secuencia codificante)
 samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:510586-511743 > SRS57_cds.fasta
+--------
+#Proximos pasos
+- Descargar secuencias reportadas en america latina
+- Alineamiento de secuencias con muscle
+- Construccion de arboles filogenicos para identificar linajes, variabilidad genetica
