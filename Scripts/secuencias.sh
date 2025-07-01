@@ -9,8 +9,16 @@ samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:508546-512330 > SRS5
 
 4. Extraer CDS (secuencia codificante)
 samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:510586-511743 > SRS57_cds.fasta
---------
+
+5. Descargar secuencias reportadas en America Latina
+esearch -db nucleotide -query "Toxoplasma gondii[Organism] AND SAG3[Gene] AND (Brazil OR Argentina OR Colombia OR Ecuador OR GUYANA)" | efetch -format acc > sga3_latam.txt
+
+6. Descargar las secuencias en archivos Fasta
+cat sga3_latam.txt | xargs -n 1 -I {} efetch -db nucleotide -id {} -format fasta > sga3_latam.fasta
+
+7. Alineamiento de secuencias con muscle
+./muscle3.8.31_i86linux64 -in sga3_latam.fasta -out sga3_aligned.fasta
+
+------
 #Proximos pasos
-- Descargar secuencias reportadas en america latina
-- Alineamiento de secuencias con muscle
 - Construccion de arboles filogenicos para identificar linajes, variabilidad genetica
