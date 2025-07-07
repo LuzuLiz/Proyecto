@@ -19,6 +19,10 @@ cat sga3_latam.txt | xargs -n 1 -I {} efetch -db nucleotide -id {} -format fasta
 #7. Alineamiento de secuencias con muscle
 ./muscle3.8.31_i86linux64 -in sga3_latam.fasta -out sga3_aligned.fasta
 
+#8. Construccion de filogenia secuencias 
+-iqtree -s sga3_aligned.fasta
+
+
 ------
 #Proximos pasos
 - Construccion de arboles filogenicos para identificar linajes, variabilidad genetica
