@@ -6,7 +6,7 @@ Para comprender particularidades genéticas en sectores regionales como Ecuador,
 Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa ME49 de Toxoplasma gondii con enfasis en la identificación de genes de virulencia y en la comparación del gen SGA3 como secuencias parciales reportadas en América Latina, como un enfoque complementario para caracterizar la variabilidad molecular regional ante la limitada disponibilidad de datos locales.
 
 # Objetivos
-* Describir e identificar los genes de virulencia presentes en el perfil genómico de la cepa ME49
+* Identificar los genes de virulencia presentes en el perfil genómico de la cepa ME49
 * Extraer y caracterizar el gen SGA3 a partir del esamblaje genómico de la cepa ME49
 * Recolectar y analizar secuencias parciales del gen SGA3 de aislamientos reportados en países de América Latina
 * Comparar las secuencias del gen SAG3 de la cepa ME49 con las secuencias regionales para evaluar la variabilidad genética y la posible existencia de linajes locales o variantes únicas en América Latina.
