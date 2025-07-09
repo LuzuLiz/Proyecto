@@ -13,9 +13,3 @@ samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:510586-511743 > SRS5
 #5. Descargar secuencias reportadas en America Latina
 esearch -db nucleotide -query "Toxoplasma gondii[Organism] AND SAG3[Gene] AND (Brazil OR Colombia OR Mexico )" | efetch -format acc > sga3_latam.txt
 
-#6. 
-
-
-------
-#Proximos pasos
-- Construccion de arboles filogenicos para identificar linajes, variabilidad genetica
