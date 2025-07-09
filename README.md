@@ -26,7 +26,7 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 - Recolección de secuencias parciales del gen **SGA3** de aislamientos latinoamericanos mediante búsqueda específicas en **NCBI**.
   
 2. Análisis y anotación del genoma ME49
-- Exploración del archivo ".gbff" dwl gnoma ME49 para identificación de genes asociados a **virulencia** como ROP, GRA, MIC.
+- Exploración del archivo ".gbff" del genoma ME49 para identificación de genes asociados a **virulencia** como ROP, GRA, MIC.
   
 3. Extracción y caracterizaciób del gen SGA3
 - Localización del gen **SGA3** en la hebr negativa del genoma ME49 utilizando coordenadas anotadas.
