@@ -13,4 +13,15 @@ samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:510586-511743 > SRS5
 #5. Descargar secuencias reportadas en America Latina
 esearch -db nucleotide -query "Toxoplasma gondii[Organism] AND SAG3[Gene] AND (Brazil)" | efetch -format acc > brasil.txt
 
-#6. Juntar las secuencias para alinearlas 
+#6.Se descarga las secuencias de los aislamientos latinoamericanos por país
+while read acc; do
+  echo "Descargando $acc"
+  esearch -db nucleotide -query "$acc" | efetch -format fasta
+done < brasil.txt > brasil.fasta
+
+#7. Juntar las secuencias para alinearlas con Muscle
+cat *.fasta > secuencias_unidas.fasta
+muscle -in secuencias_unidas.fasta -out alineamiento_sag3.fasta
+
+#8 Formar el árbol filogenético
+
