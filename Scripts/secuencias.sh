@@ -11,5 +11,6 @@ samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:508546-512330 > SRS5
 samtools faidx GCF_000006565.2_TGA4_genomic.fna NC_031480.1:510586-511743 > SRS57_cds.fasta
 
 #5. Descargar secuencias reportadas en America Latina
-esearch -db nucleotide -query "Toxoplasma gondii[Organism] AND SAG3[Gene] AND (Brazil OR Colombia OR Mexico )" | efetch -format acc > sga3_latam.txt
+esearch -db nucleotide -query "Toxoplasma gondii[Organism] AND SAG3[Gene] AND (Brazil)" | efetch -format acc > brasil.txt
 
+#6. Juntar las secuencias para alinearlas 
