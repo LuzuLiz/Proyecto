@@ -30,7 +30,7 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 - Exploración del archivo ".gbff" del genoma ME49 para identificación de genes asociados a **virulencia** como ROP, GRA, MIC.
   
 3. Extracción y caracterizaciób del gen SGA3
-- Localización del gen **SAG3** en la hebr negativa del genoma ME49 utilizando coordenadas anotadas.
+- Localización del gen **SAG3** en la hebra negativa del genoma ME49 utilizando coordenadas anotadas.
 - Extracción de la secuencia genómica completa del gen y su fragmentación.
   
 4. Análisis filogenético
