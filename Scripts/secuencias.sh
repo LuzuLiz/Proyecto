@@ -15,7 +15,6 @@ esearch -db nucleotide -query "Toxoplasma gondii[Organism] AND SAG3[Gene] AND (B
 
 #6.Se descarga las secuencias de los aislamientos latinoamericanos por país
 while read acc; do
-  echo "Descargando $acc"
   esearch -db nucleotide -query "$acc" | efetch -format fasta
 done < brasil.txt > brasil.fasta
 
@@ -25,4 +24,5 @@ cat *.fasta > secuencias_unidas.fasta
 muscle -in secuencias_unidas.fasta -out alineamiento_sag3.fasta
 
 #8 Formar el árbol filogenético
+iqtree2 -s alineamineto_sga3.fasta-m MFP -bb 1000 -alrt 1000
 
