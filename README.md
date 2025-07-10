@@ -24,13 +24,13 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 1. Obtencion de datos genómicos y secuencias de referencia
 - Descarga del genoma completo de la cepa **ME49** de Toxoplasma gondii desde **NCBI** utilizando la herramienta de línea de comando 'datasets'.
 - Obtención de los archivos de ensamblaje (.fna) y anotación (.gbff) necesarios para el análisis.
-- Recolección de secuencias parciales del gen **SGA3** de aislamientos latinoamericanos mediante búsqueda específicas en **NCBI**.
+- Recolección de secuencias parciales del gen **SAG3** de aislamientos latinoamericanos mediante búsqueda específicas en **NCBI**.
   
 2. Análisis y anotación del genoma ME49
 - Exploración del archivo ".gbff" del genoma ME49 para identificación de genes asociados a **virulencia** como ROP, GRA, MIC.
   
 3. Extracción y caracterizaciób del gen SGA3
-- Localización del gen **SGA3** en la hebr negativa del genoma ME49 utilizando coordenadas anotadas.
+- Localización del gen **SAG3** en la hebr negativa del genoma ME49 utilizando coordenadas anotadas.
 - Extracción de la secuencia genómica completa del gen y su fragmentación.
   
 4. Análisis filogenético
@@ -38,7 +38,7 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 - Se evaluará la variabilidad genética y la posible existencia de linajes únicos o compartidos entre las cepas de América Latina y la referencia ME49.
   
 5. Análisis comparativo 
-- Comparación entre los genes de virulencia identificados en ME49 y la estructura filogenética derivada del gen SGA3.
+- Comparación entre los genes de virulencia identificados en ME49 y la estructura filogenética derivada del gen SAG3.
 - Evaluación de patrones y linajes regionales potencialmente únicos en Amêrica Latina.
 
 # Referencias
