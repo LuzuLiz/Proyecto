@@ -21,6 +21,7 @@ done < brasil.txt > brasil.fasta
 
 #7. Juntar las secuencias para alinearlas con Muscle
 cat *.fasta > secuencias_unidas.fasta
+
 muscle -in secuencias_unidas.fasta -out alineamiento_sag3.fasta
 
 #8 Formar el árbol filogenético
