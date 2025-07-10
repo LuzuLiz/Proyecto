@@ -7,8 +7,8 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 
 # Objetivos
 * Identificar los genes de virulencia presentes en el perfil genómico de la cepa ME49 mediante exploración de anotaciones genómicas.
-* Extraer el gen SGA3 a partir del esamblaje genómico de la cepa ME49
-* Recolectar y alinear secuencias parciales del gen SGA3 de aislamientos reportados en países de América Latina
+* Extraer el gen SAG3 a partir del esamblaje genómico de la cepa ME49
+* Recolectar y alinear secuencias parciales del gen SAG3 de aislamientos reportados en países de América Latina
 * Comparar las secuencias del gen SAG3 de la cepa ME49 con las secuencias regionales para evaluar la variabilidad genética y la posible existencia de linajes locales o variantes únicas en América Latina.
 * Construir árboles filogenéticos basados en las secuencias de SAG3 para inferir relaciones evolutivas entre la cepa ME49 y los aislamientos de América Latina
   
