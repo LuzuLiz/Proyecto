@@ -16,7 +16,7 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 - Bash (Linux/Mac)
 - [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/)
 - [Python 3.10](https://www.python.org/downloads/release/python-3100/)
-- [MUSCLE v3.8.31](https://www.drive5.com/muscle/)
+- [MUSCLE v3.8.31](https://github.com/rcedgar/muscle/releases)
 - [IQ-TREE](http://www.iqtree.org/)
 
 
