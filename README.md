@@ -14,10 +14,11 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
   
 # Herramientas
 - Bash (Linux/Mac)
-- NCBI Datasets
-- Phyton 3.10
-- Muscle v3.8.31
-- IQtree
+- [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/)
+- [Python 3.10](https://www.python.org/downloads/release/python-3100/)
+- [MUSCLE v3.8.31](https://www.drive5.com/muscle/)
+- [IQ-TREE](http://www.iqtree.org/)
+
 
 # Metología
 1. Obtencion de datos genómicos y secuencias de referencia
