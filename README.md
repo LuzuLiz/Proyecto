@@ -51,6 +51,15 @@ En contraste, la secuencia SAG3 proveniente de Colombia mostró una **divergenci
 
 Estos resultados destacan la utilidad del gen **SAG3** como marcador para estudios filogenéticos y la importancia de la cepa **ME49** como referencia para evaluar la diversidad genética de *T. gondii* en distintos países latinoamericanos.
 
+# Diversidad de hospedadores y su relevancia filogenética
+
+El análisis de las secuencias del gen **SAG3** de *Toxoplasma gondii* evidenció una notable **diversidad de hospedadores**, incluyendo animales **domésticos, silvestres y humanos**, lo que refleja la amplia distribución ecológica del parásito en América y su capacidad de adaptación a múltiples ambientes y ciclos de transmisión.
+Esta diversidad taxonómica y geográfica permite observar cómo algunas cepas se agrupan genéticamente en torno a la cepa de referencia ME49 (linaje tipo II), Sin embargo, aun con el análisis del gen SAG3, estas cepas también muestran relación con otras cepas circulantes mucho más virulentas, correspondientes a los linajes tipo I y III, reportados principalmente en Estados Unidos.Por otro lado, otras cepas, especialmente las provenientes de hospedadores silvestres como capibaras o felinos nativos de Brasil, muestran **mayor divergencia filogenética**, lo cual sugiere la circulación de **linajes atípicos** o recombinantes.
+
+
+Consulta la tabla de secuencias para ver el detalle por país y hospedador: [SECUENCIAS.md](SECUENCIAS.md)
+
+
 
 # Referencias
 * Rajendran C, "Molecular genotyping of Toxoplasma gondii from Central and South America revealed high diversity within and between populations", Elsevier BV, 2012, https://www.sciencedirect.com/science/article/abs/pii/S1567134811004576?via=ihub.
