@@ -41,6 +41,17 @@ Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa 
 - Comparación entre los genes de virulencia identificados en ME49 y la estructura filogenética derivada del gen SAG3.
 - Evaluación de patrones y linajes regionales potencialmente únicos en Amêrica Latina.
 
+# Conclusiones
+
+La cepa **ME49** de *Toxoplasma gondii*, aislada en **Estados Unidos** y clasificada como **tipo II**, representa una de las tres principales líneas clonales del parásito a nivel mundial. Debido a su disponibilidad genómica completa y su uso frecuente como cepa de referencia en estudios moleculares, se utilizó un segmento de su gen **SAG3** como punto de comparación filogenética.
+
+Mediante el análisis de secuencias del gen SAG3 de cepas reportadas en **Brasil, México y Colombia**, se observó una **alta similitud genética entre ME49 y las secuencias brasileñas y mexicanas**, lo que sugiere que estas podrían derivar evolutivamente de un linaje común representado por ME49, posiblemente a través de procesos de migración, diseminación o introducción del linaje tipo II en América Latina.
+
+En contraste, la secuencia SAG3 proveniente de Colombia mostró una **divergencia genética mayor**, lo que indica que, si bien comparte el mismo gen marcador, **no guarda una relación filogenética cercana con la cepa ME49**, lo cual podría estar relacionado con la circulación de genotipos diferentes o recombinantes en esa región.
+
+Estos resultados destacan la utilidad del gen **SAG3** como marcador para estudios filogenéticos y la importancia de la cepa **ME49** como referencia para evaluar la diversidad genética de *T. gondii* en distintos países latinoamericanos.
+
+
 # Referencias
 * Rajendran C, "Molecular genotyping of Toxoplasma gondii from Central and South America revealed high diversity within and between populations", Elsevier BV, 2012, https://www.sciencedirect.com/science/article/abs/pii/S1567134811004576?via=ihub.
 * Webster Leonardo Guimarães Costa e Hanstter Hallison Alves Rezende. 2023. “Toxoplasma Gondii Genotypes Isolated from Humans: A Systematic Review”. CONTRIBUCIONES A LAS CIENCIAS SOCIALES 16 (6):4024-44. https://doi.org/10.55905/revconv.16n.6-060.
