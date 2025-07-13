@@ -5,6 +5,9 @@ La cepa ME49, correspondiente al linaje tipo II, representa un modelo genómico 
 Para comprender particularidades genéticas en sectores regionales como Ecuador, es necesario integrar marcadores moleculares como el gen SGA3 (también denominado SRS57) un marcador superficial ampliamente utilizado en estudios filogeográficos de t. gondii, que proporciona información valiosa sobre la heterogeneidad genética y distribucion de haplotipos en poblaciones (W.L.G., Costa,2023). Investigaciones previas que evaluaron secuencias de SAG3 en Ecuador y regiones cercanas han reportado una notable variabilidad genética y la posible existencia de genotipos úicos en la zona.
 Por tanto, este estudio se orienta a realizar un análisis genómico de la cepa ME49 de Toxoplasma gondii con enfasis en la identificación de genes de virulencia y en la comparación del gen SGA3 como secuencias parciales reportadas en América Latina, como un enfoque complementario para caracterizar la variabilidad molecular regional ante la limitada disponibilidad de datos locales.
 
+
+![WhatsApp Image 2025-07-13 at 17 14 54](https://github.com/user-attachments/assets/13f95b31-f7ff-4a84-8cd8-64f85949674a)
+
 # Objetivos
 * Identificar los genes de virulencia presentes en el perfil genómico de la cepa ME49 mediante exploración de anotaciones genómicas.
 * Extraer el gen SAG3 a partir del esamblaje genómico de la cepa ME49
